@@ -8,7 +8,7 @@ mouse = plr:GetMouse()
  
 mouse.KeyDown:connect(function(key)
  
-if key == "q" then
+if key == "z" then
  
 if mouse.Target then
  
